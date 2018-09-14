@@ -66,7 +66,7 @@ public class Cotrol
 		System.out.println("your monster has " + Legs + " legs");
 		System.out.println("your monster has " + Arms + " arms"); 
 		System.out.println("your monster has " + eyes + " eyes" );
-		if ( nose = true) {
+		if ( nose = false) {
 			System.out.println("your monster has a nose ");
 		} else {
 			System.out.println("your monster doesn't have a nose ");
