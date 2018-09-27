@@ -76,7 +76,7 @@ public class MarshmallowMonster
 	{
 		this.armCount = arms;
 	}
-	public String toString()
+	public String toString( String fug)
     
     
 	{
